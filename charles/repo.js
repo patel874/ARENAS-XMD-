@@ -71,7 +71,7 @@ commands.forEach((command) => {
             // Send the follow-up image first with a caption
             await zk.sendMessage(dest, {
                 image: { url: "https://files.catbox.moe/pibkby.jpg" }, // Updated image URL
-                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *framework zokou*\n📢 Stay updated\nhttps://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y\n\nRepo Url\nhttps://github.com/patel874/KHAN_PATEL-MD`,
+                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *KHAN_PATEL-MD *\n\nRepo Url\nhttps://github.com/patel874/KHAN_PATEL-MD`,
             });
 
             // Follow up with the GitHub repository details
