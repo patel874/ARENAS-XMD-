@@ -20,7 +20,7 @@ const{repondre,ms,dev,superUser}=com;
 
   const {exec}=require("child_process")
 
-    repondre("TOXIC-LOVER-MD bot Restarting ⏳");
+    repondre("KHAN_PATEL-MD bot Restarting ⏳");
 
   exec("pm2 restart all");
   
