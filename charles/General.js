@@ -40,11 +40,11 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "🚘" }, async (dest, 
         );
     } else {
         const vcard =
-            'BEGIN:VCARD\n' + // metadata of the contact card
+            'BEGIN:VCARD\n' + 
             'VERSION:3.0\n' +
-            'FN:' + conf.OWNER_NAME + '\n' + // full name
-            'ORG:undefined;\n' + // the organization of the contact
-            'TEL;type=CELL;type=VOICE;waid=' + conf.NUMERO_OWNER + ':+' + conf.NUMERO_OWNER + '\n' + // WhatsApp ID + phone number
+            'FN:' + conf.OWNER_NAME + '\n' + 
+            'ORG:undefined;\n' + 
+            'TEL;type=CELL;type=VOICE;waid=' + conf.NUMERO_OWNER + ':+' + conf.NUMERO_OWNER + '\n' + 
             'END:VCARD';
         zk.sendMessage(dest, {
             contacts: {
@@ -59,13 +59,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-        { nom: "TOXIC LOVER", numero: "254717263689" },
+        { nom: "KHAN_PATEL", numero: "254715032944" },
         { nom: "᚛Ibrahim Adams᚜", numero: "254710772666" },
-        { nom: "Adams kenya", numero: "254727716045" },
-        // Add more developers here with their names and numbers
+        { nom: "KHAN_PATEL", numero: "254768955165" },
     ];
 
-    let message = "WELCOME TO TOXIC-LOVER-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO KHAN_PATEL-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
         message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -78,9 +77,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
             console.log("🥵🥵 Menu erreur " + e);
             repondre("🥵🥵 Menu erreur " + e);
         }
-    }
-    // Vérification pour .jpeg ou .png
-    else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
+    } else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         try {
             zk.sendMessage(dest, { image: { url: lien }, caption: message }, { quoted: ms });
         } catch (e) {
@@ -96,6 +93,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
     const { ms, repondre, auteurMessage } = commandeOptions;
 
-    repondre("THANK YOU FOR CHOOSING TOXIC-LOVER-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔");
-    await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING TOXIC-LOVER-MD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });
+    repondre("THANK YOU FOR CHOOSING KHAN_PATEL-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029Vaf9jys9Bb5sQdJCOn3R] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/GhUgIy6KY7cAMrVbhTRbYp] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔");
+    await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING KHAN_PATEL-MD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });
 });
