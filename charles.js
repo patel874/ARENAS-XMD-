@@ -1051,56 +1051,6 @@ function mybotpic() {
 };
 
 
-
-            /************************ anti-delete-message */
-
-            if(ms.message.protocolMessage && ms.message.protocolMessage.type === 0 && (conf.ADM).toLocaleLowerCase() === 'yes' ) {
-
-                if(ms.key.fromMe || ms.message.protocolMessage.key.fromMe) { console.log('Message supprimer me concernant') ; return }
-        
-                                console.log(`Message supprimer`)
-                                let key =  ms.message.protocolMessage.key ;
-                                
-        
-                               try {
-        
-                                  let st = './store.json' ;
-        
-                                const data = fs.readFileSync(st, 'utf8');
-        
-                                const jsonData = JSON.parse(data);
-        
-                                    let message = jsonData.messages[key.remoteJid] ;
-                                
-                                    let msg ;
-        
-                                    for (let i = 0 ; i < message.length ; i++) {
-        
-                                        if (message[i].key.id === key.id) {
-                                            
-                                            msg = message[i] ;
-        
-                                            break 
-                                        }
-        
-                                    } 
-        
-                                  //  console.log(msg)
-        
-                                    if(msg === null || !msg ||msg === 'undefined') {console.log('Message non trouver') ; return } 
-        
-                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        *Deleted message detected*\n\n 🚮 Deleted by @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
-                                .then( () => {
-                                    zk.sendMessage(idBot,{forward : msg},{quoted : msg}) ;
-                                })
-                               
-                              
-        
-                               } catch (e) {
-                                    console.log(e)
-                               }
-                            }
-         /************************ anti-delete-message */
 // Auto read messages (Existing code, optional)
 if (conf.AUTO_READ === 'yes') {
     zk.ev.on('messages.upsert', async (m) => {
