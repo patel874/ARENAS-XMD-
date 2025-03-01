@@ -33,7 +33,7 @@
 ## 🚀 GET SESSION  
 
 <p align="center">  
-  <a href="https://khanpatel-md.onrender.com">  
+  <a href="https://khan-patel-xmd.onrender.com">  
     <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-blue?style=for-the-badge&logo=khan" width="220" height="38.45"/>  
   </a>  
 </p>  
