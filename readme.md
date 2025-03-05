@@ -1,7 +1,7 @@
 <p align="center">    
   <a href="https://files.catbox.moe/pibkby.jpg">  
     <img alt="KHAN_PATEL-MD" height="300" src="https://files.catbox.moe/pibkby.jpg">  
-    <h1 align="center"> KHAN_PATEL-MD - POWERED BY KHAN_PATEL-MD</h1>  
+    <h1 align="center"> KHAN_PATEL-MD - POWERED BY PATEL</h1>  
   </a>  
 </p>    
 
