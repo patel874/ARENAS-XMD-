@@ -18,7 +18,7 @@
 <p align="center">  
   <a href="https://github.com/khanpatelmd"><img title="Author" src="https://img.shields.io/badge/KHAN_PATEL_MD-black?style=for-the-badge&logo=Github"></a>   
   <a href="https://whatsapp.com/channel/0029Vaf9jys9Bb5sQdJCOn3R"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>   
-  <a href="https://chat.whatsapp.com/GhUgIy6KY7cAMrVbhTRbYp"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>  
+  <a href="https://chat.whatsapp.com/GhUgIy6KY7cAMrVbhTRbYp"><img title="Chat" src="https://img.shields.io/badge/CHAT PATEL-black?style=for-the-badge&logo=whatsapp"></a>  
 </p>  
 
 <p align="center">  
