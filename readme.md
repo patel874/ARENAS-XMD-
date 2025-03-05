@@ -1,14 +1,14 @@
 <p align="center">    
   <a href="https://files.catbox.moe/pibkby.jpg">  
     <img alt="KHAN_PATEL-MD" height="300" src="https://files.catbox.moe/pibkby.jpg">  
-    <h1 align="center"> KHAN_PATEL-MD POWERED BY PATEL TECH ENJOY THIS IS THE BEST AND SAFEST BOT</h1>  
+    <h1 align="center"> KHAN_PATEL-MD POWERED BY PATEL TECH ♥️ENJOY THE BEST AND SAFEST BOT</h1>  
   </a>  
 </p>    
 
 ---
 
 <p align="center">  
-  <a href="https://buymeacoffee.com/khanpatelmd" target="_blank">  
+  <a href="https://buymeacoffee.com/khanpatelmd" target="+254768955165">  
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">  
   </a>  
 </p>  
@@ -42,7 +42,7 @@
 
 ## 🧚‍♂️ KHAN_PATEL-MD'S DEPLOYMENT OPTIONS  
 
-### 🔹 DEPLOY ON HEROKU  
+### 🔹 DEPLOY ON HEROKU(100% SAFE)  
 
   [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/patel874/KHAN_PATEL-MD)  
 
