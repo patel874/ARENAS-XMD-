@@ -61,9 +61,9 @@
 ## ⚡ KHAN_PATEL-MD BOT INFO    
 🚗 **High Performance** - Optimized for speed and efficiency    
 🛡️ **Secure** - Built-in security mechanisms    
-🔄 **Auto Updates** - Stay up-to-date with the latest improvements    
+🔄 **Auto Updates** - Stay up-to-date with the latest improvements on my bot   
 ⚙️ **Customization** - Fully configurable settings    
 
 ---
 
-**© 2025 KHAN_PATEL-MD | Built with ❤️ by KHAN_PATEL-MD**
+**© 2025 KHAN_PATEL-MD | Built with ❤️ by PATEL**
