@@ -1,6 +1,6 @@
 <p align="center">    
   <a href="https://files.catbox.moe/pibkby.jpg">  
-    <img alt="KHAN_PATEL-MD" height="300" src="https://files.catbox.moe/pibkby.jpg">  
+    <img alt="KHAN_PATEL-MD" height="300" src="https://files.catbox.moe/j6gb3r.jpg">  
     <h1 align="center"> KHAN_PATEL-MD POWERED BY PATEL TECH ♥️ENJOY THE BEST AND SAFEST BOT</h1>  
   </a>  
 </p>    
@@ -8,7 +8,7 @@
 ---
 
 <p align="center">  
-  <a href="https://buymeacoffee.com/khanpatelmd" target="+254768955165">  
+  <a href="https://buymeacoffee.com/khanpatelmd" target="254114498349">  
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">  
   </a>  
 </p>  
@@ -16,9 +16,9 @@
 ---
 
 <p align="center">  
-  <a href="https://github.com/khanpatelmd"><img title="Author" src="https://img.shields.io/badge/KHAN_PATEL_MD-black?style=for-the-badge&logo=Github"></a>   
+  <a href="https://github.com/khanpatelmd"><img title="PATEL" src="https://img.shields.io/badge/KHAN_PATEL_MD-black?style=for-the-badge&logo=Github"></a>   
   <a href="https://whatsapp.com/channel/0029Vaf9jys9Bb5sQdJCOn3R"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>   
-  <a href="https://chat.whatsapp.com/GhUgIy6KY7cAMrVbhTRbYp"><img title="Chat" src="https://img.shields.io/badge/chat grup-black?style=for-the-badge&logo=whatsapp"></a>  
+  <a href="https://chat.whatsapp.com/GhUgIy6KY7cAMrVbhTRbYp"><img title="GROUP CHAT" src="https://img.shields.io/badge/chat grup-black?style=for-the-badge&logo=whatsapp"></a>  
 </p>  
 
 <p align="center">  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🧚‍♂️ KHAN_PATEL-MD'S DEPLOYMENT OPTIONS  
+## 🧚‍♂️ PATEL-MD'S DEPLOYMENT OPTIONS  
 
 ### 🔹 DEPLOY ON HEROKU(100% SAFE)  
 
