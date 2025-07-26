@@ -1,5 +1,5 @@
 <p align="center">    
-  <a href="https://files.catbox.moe/pibkby.jpg">  
+  <a href="https://files.catbox.moe/ygtpg0.jpg">  
     <img alt="KHAN_PATEL-MD" height="300" src="https://files.catbox.moe/j6gb3r.jpg">  
     <h1 align="center"> PATEL-MD POWERED BY PATEL TECH ♥️ENJOY THE BEST AND SAFEST BOT</h1>  
   </a>  
