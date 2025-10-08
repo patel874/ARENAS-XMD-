@@ -59,7 +59,7 @@
 
 ## 🔥Developer contact
 
-(https://img.shields.io/badge/Contact%20Developer-**Click%20Here**-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=blue)](https://api.whatsapp.com/send?phone=254781518408)
++254781518408
 
 
 ## ⚡ PATEL-MD BOT INFO    
