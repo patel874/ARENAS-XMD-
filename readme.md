@@ -1,6 +1,6 @@
 <p align="center">    
   <a href="https://files.catbox.moe/ygtpg0.jpg">  
-    <img alt="KHAN_PATEL-MD" height="300" src="https://files.catbox.moe/j6gb3r.jpg">  
+    <img alt="PATEL-MD" height="300" src="https://files.catbox.moe/j6gb3r.jpg">  
     <h1 align="center"> PATEL-MD POWERED BY PATEL TECH ♥️ENJOY THE BEST AND SAFEST BOT</h1>  
   </a>  
 </p>    
@@ -58,7 +58,7 @@
 
 ---
 
-## ⚡ KHAN_PATEL-MD BOT INFO    
+## ⚡ PATEL-MD BOT INFO    
 🚗 **High Performance** - Optimized for speed and efficiency    
 🛡️ **Secure** - Built-in security mechanisms    
 🔄 **Auto Updates** - Stay up-to-date with the latest improvements on my bot   
@@ -66,4 +66,4 @@
 
 ---
 
-**© 2025 KHAN_PATEL-MD | Built with ❤️ by PATEL**
+**© 2025 PATEL-MD | Built with ❤️ by PATEL**
