@@ -9,7 +9,7 @@
 
 <p align="center">  
   <a href="https://buymeacoffee.com/khanpatelmd" target="254114498349">  
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">  
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">  
   </a>  
 </p>  
 
@@ -18,7 +18,7 @@
 <p align="center">  
   <a href="https://github.com/khanpatelmd"><img title="PATEL" src="https://img.shields.io/badge/KHAN_PATEL_MD-black?style=for-the-badge&logo=Github"></a>   
   <a href="https://whatsapp.com/channel/0029Vb5d5W71yT2AAE4i4T33"><img title="FOLLOW OUR CHANNEL" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>   
-  <a href="https://chat.whatsapp.com/FUsKzpFFgGuKNO6rYmqTOa"><img title="JOIN GROUP" src="https://img.shields.io/badge/chat grup-black?style=for-the-badge&logo=whatsapp"></a>  
+  <a href="https://chat.whatsapp.com/FHAqkGbbEs4HdJMap28qq9?mode=ems_copy_t"><img title="JOIN GROUP" src="https://img.shields.io/badge/chat grup-black?style=for-the-badge&logo=whatsapp"></a>  
 </p>  
 
 <p align="center">  
