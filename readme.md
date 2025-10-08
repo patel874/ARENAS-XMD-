@@ -56,7 +56,11 @@
 - **Koyeb:**    
   [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)  
 
----
+
+## 🔥Developer contact
+
+(https://img.shields.io/badge/Contact%20Developer-**Click%20Here**-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=blue)](https://api.whatsapp.com/send?phone=254781518408)
+
 
 ## ⚡ PATEL-MD BOT INFO    
 🚗 **High Performance** - Optimized for speed and efficiency    
