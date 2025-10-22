@@ -200,7 +200,7 @@ For issues and feature requests, please open an issue on GitHub or contact:
 - Discord: [Join our Discord server](https://discord.gg/your-invite)
 
 ## 🙏 Acknowledgments
-- [Selenium](https://www.selenium.dev/) - Web automation
+- PATEL THE OWNER OF PATELXMD]
 - [Requests](https://docs.python-requests.org/) - HTTP library
 - [Pillow](https://python-pillow.org/) - Image processing
 - [OpenWeatherMap API](https://openweathermap.org/api) - Weather data
